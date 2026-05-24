@@ -6,7 +6,7 @@
       "artist": "Aeris Theme",
       "difficulty": 0,
       "contentHash": "36b485dac6a5f95dd59ba77d9fba779f",
-      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/aeris-theme-nobuo-uematsu.synkey",
+      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/songs/aeris-theme-nobuo-uematsu.synkey",
       "size": 4414
     },
     {
@@ -14,7 +14,7 @@
       "artist": "Avicii",
       "difficulty": 0,
       "contentHash": "66256b7bf2a20857e9a2290b2ac54f46",
-      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/avicii-levels.synkey",
+      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/songs/avicii-levels.synkey",
       "size": 21189
     },
     {
@@ -22,7 +22,7 @@
       "artist": "B.o.B ft. Hayley Williams",
       "difficulty": 0,
       "contentHash": "5b9891486e5f4d147d8d634c99a0d16b",
-      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/b-o-b-ft-hayley-williams-airplanes.synkey",
+      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/songs/b-o-b-ft-hayley-williams-airplanes.synkey",
       "size": 18502
     },
     {
@@ -30,7 +30,7 @@
       "artist": "Billie Eilish",
       "difficulty": 0,
       "contentHash": "ff053ca6f5e58d0f6b6704002b2778a8",
-      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/billie-eilish-no-time-to-die.synkey",
+      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/songs/billie-eilish-no-time-to-die.synkey",
       "size": 10915
     },
     {
@@ -38,7 +38,7 @@
       "artist": "Coldplay",
       "difficulty": 0,
       "contentHash": "d07cf557caaace83e291a3f22b70fe29",
-      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/coldplay-the-scientist.synkey",
+      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/songs/coldplay-the-scientist.synkey",
       "size": 17962
     },
     {
@@ -46,7 +46,7 @@
       "artist": "Coolio",
       "difficulty": 0,
       "contentHash": "90dfe0c795ee821d3a4eb61d48350815",
-      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/coolio-gangsta-s-paradise.synkey",
+      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/songs/coolio-gangsta-s-paradise.synkey",
       "size": 21561
     },
     {
@@ -54,7 +54,7 @@
       "artist": "",
       "difficulty": 0,
       "contentHash": "0c13382b2aba128b193e766eb24983fb",
-      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/final-fantasy-vii-main-theme.synkey",
+      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/songs/final-fantasy-vii-main-theme.synkey",
       "size": 7966
     },
     {
@@ -62,7 +62,7 @@
       "artist": "Full MIDI",
       "difficulty": 0,
       "contentHash": "7053012629753e6576bcf05b5ab5f0ae",
-      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/full-midi-ludovico-einaudi-nuvole-bianche.synkey",
+      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/songs/full-midi-ludovico-einaudi-nuvole-bianche.synkey",
       "size": 12952
     },
     {
@@ -70,7 +70,7 @@
       "artist": "Full MIDI",
       "difficulty": 0,
       "contentHash": "989e7efd371bac2339b422888d94de83",
-      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/full-midi-the-police-every-breath-you-take.synkey",
+      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/songs/full-midi-the-police-every-breath-you-take.synkey",
       "size": 10067
     },
     {
@@ -78,7 +78,7 @@
       "artist": "Hans Zimmer",
       "difficulty": 0,
       "contentHash": "2f5c00306f133feb6aa6b2fae82d24b7",
-      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/hans-zimmer-first-step-interstellar.synkey",
+      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/songs/hans-zimmer-first-step-interstellar.synkey",
       "size": 8231
     },
     {
@@ -86,7 +86,7 @@
       "artist": "Harry Potter",
       "difficulty": 0,
       "contentHash": "9f554977acf99e480b6bf33f86470e60",
-      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/harry-potter-medley.synkey",
+      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/songs/harry-potter-medley.synkey",
       "size": 67724
     },
     {
@@ -94,7 +94,7 @@
       "artist": "He's a Pirate",
       "difficulty": 0,
       "contentHash": "8c88e8dd495702afe1b3889339c473ed",
-      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/he-s-a-pirate-pirates-of-the-caribbean.synkey",
+      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/songs/he-s-a-pirate-pirates-of-the-caribbean.synkey",
       "size": 12305
     },
     {
@@ -102,7 +102,7 @@
       "artist": "Linkin Park",
       "difficulty": 0,
       "contentHash": "c05d70a90f7580ec8860ff751a5dbf96",
-      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/linkin-park-in-the-end.synkey",
+      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/songs/linkin-park-in-the-end.synkey",
       "size": 12299
     },
     {
@@ -110,7 +110,7 @@
       "artist": "Linkin Park",
       "difficulty": 0,
       "contentHash": "a627094541f0aa88582426a0e0fa1725",
-      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/linkin-park-numb.synkey",
+      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/songs/linkin-park-numb.synkey",
       "size": 11801
     },
     {
@@ -118,7 +118,7 @@
       "artist": "Pokemon",
       "difficulty": 0,
       "contentHash": "cc29d3b0987c909a7b9509d5bb7114e8",
-      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/pokemon-theme.synkey",
+      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/songs/pokemon-theme.synkey",
       "size": 34039
     },
     {
@@ -126,7 +126,7 @@
       "artist": "",
       "difficulty": 0,
       "contentHash": "71998653bee60a4f68d01113bf2cb50e",
-      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/requiem-for-a-dream-easy.synkey",
+      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/songs/requiem-for-a-dream-easy.synkey",
       "size": 4059
     },
     {
@@ -134,7 +134,7 @@
       "artist": "Stairway to Heaven",
       "difficulty": 0,
       "contentHash": "f85b539f28ac2510f46f1e86aab7dc7a",
-      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/stairway-to-heaven-led-zeppelin.synkey",
+      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/songs/stairway-to-heaven-led-zeppelin.synkey",
       "size": 23007
     },
     {
@@ -142,7 +142,7 @@
       "artist": "Super Mario World",
       "difficulty": 0,
       "contentHash": "f0925978d7a5f85ed452ec07089af34f",
-      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/super-mario-world-underwater-theme.synkey",
+      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/songs/super-mario-world-underwater-theme.synkey",
       "size": 3849
     },
     {
@@ -150,7 +150,7 @@
       "artist": "Unravel Animenz",
       "difficulty": 0,
       "contentHash": "cc8065ee40f2585d3173b5bbf179f494",
-      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/unravel-animenz-toyko-ghoul.synkey",
+      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/songs/unravel-animenz-toyko-ghoul.synkey",
       "size": 15335
     },
     {
@@ -158,7 +158,7 @@
       "artist": "Zelda Ocarina of Time",
       "difficulty": 0,
       "contentHash": "ed5695e682500da10b1775541aca6056",
-      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/zelda-ocarina-of-time-zeldas-lullaby.synkey",
+      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/songs/zelda-ocarina-of-time-zeldas-lullaby.synkey",
       "size": 5541
     },
     {
@@ -166,7 +166,7 @@
       "artist": "",
       "difficulty": 0,
       "contentHash": "5ff0893bfa1cc06331b2119a19e16886",
-      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/zelda-s-lullaby.synkey",
+      "url": "https://raw.githubusercontent.com/aronjanosch/synkey-test-library/master/songs/zelda-s-lullaby.synkey",
       "size": 2111
     }
   ]
